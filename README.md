@@ -2,10 +2,18 @@
 
 Uma API simples que fornece operações de soma e multiplicação.
 
+## VM & GitHub
+
+- VM:
+  20.81.232.58
+
+- GitHub:
+  https://github.com/Raf-Guim/atv_3
+
 ## Endpoints
 
-- `POST /soma`: Soma dois números
-- `POST /multiplicacao`: Multiplica dois números
+- `POST /Calculator/soma`: Soma dois números
+- `POST /Calculator/multiplicacao`: Multiplica dois números
 
 ## Como executar
 

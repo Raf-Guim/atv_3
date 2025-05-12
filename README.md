@@ -2,6 +2,13 @@
 
 Uma API simples que fornece operações de soma e multiplicação.
 
+## Grupo
+
+- Rafael Guimaraes
+- Gabriel Peixoto
+- João Vitor
+- Julia Falchi
+
 ## VM & GitHub
 
 - VM:
